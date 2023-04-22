@@ -6,3 +6,11 @@ many api keys, (~(2-5 seconds per key) + (~15 seconds to start)).
 # usage
 
 Check the examples.
+
+# Installation
+
+```
+$ git clone https://github.com/Fakesum/utruecaller-api
+$ cd utruecaller-api
+$ pip install -e
+```
