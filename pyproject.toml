@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "seleniumbase", "selenium", "requests", "truecallerpy"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "utruecaller_api"
+version = "0.0.1a"
+authors = [
+  { name="Fakesum", email="worldanvilbild+github@gmail.com" },
+]
+description = "Unlimited truecaller api"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Fakesum/utruecaller_api"
+"Bug Tracker" = "https://github.com/Fakesum/utruecaller_api/issues"
